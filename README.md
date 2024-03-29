@@ -1,5 +1,3 @@
-***Jogo da Vélha***
-
 
 # Jogo da Velha 
 
