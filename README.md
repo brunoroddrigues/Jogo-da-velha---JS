@@ -1,9 +1,9 @@
 ***Jogo da Vélha***
 
 
-# Jogo da Velha (Tic-Tac-Toe)
+# Jogo da Velha 
 
-Este é um simples jogo da velha (Tic-Tac-Toe) desenvolvido com HTML, CSS e JavaScript.
+Este é um simples jogo da velha desenvolvido com HTML, CSS e JavaScript.
 
 ## Funcionalidades
 
